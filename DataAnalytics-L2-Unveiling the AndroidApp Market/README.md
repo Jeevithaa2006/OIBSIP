@@ -68,10 +68,6 @@ Created charts and visualisations to communicate the findings.
 
 This project demonstrates how Python, data analysis, and visualisation techniques can be used to analyse the Google Play Store and understand app performance and user feedback.
 
-## Screenshots
-
-Relevant graphs and outputs are included in the `Screenshots` folder.
-
 ## Author
 
 **Jeevitha**
